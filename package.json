@@ -47,7 +47,7 @@
     "node-sass": "^4.13.1",
     "prettier": "^1.16.4",
     "sass-loader": "^8.0.2",
-    "stylelint": "^13.0.0",
+    "stylelint": "^15.10.1",
     "vue-jest": "^4.0.0-0"
   }
 }
